@@ -1,0 +1,6 @@
+{
+  "name": "AEX AI IT Helpdesk Agent",
+  "description": "Enterprise-level agentic IT helpdesk portal powered by Gemini 3.5 Flash for L1 triage, automated ticket routing, and telemetry auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
